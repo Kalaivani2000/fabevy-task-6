@@ -1,0 +1,61 @@
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+}
+.banner{
+	  display:flex;
+	  margin: 50px;
+}
+
+.container{
+    width:60%;
+    padding:0 15px;
+    margin:0 auto;
+    display:flex;
+    flex-wrap:wrap;
+}
+.gift{
+	  padding:0 15px;
+	  width:50%;
+	 
+}
+.gift-text{
+	
+	align-items:center;
+	border:1px solid #ddd8d4;
+	margin-bottom:30px;
+	padding:20px;
+	display:flex;
+  
+}
+.gift-text i{
+	  width:41px;
+	  height:20px;
+	  line-height:21px;
+	  display:inline-block;
+	  font-size:30px;
+	  color:orange;
+}
+.gift-text h2{
+	   font-family:'Raleway', sans-serif;
+	   font-size:19px;
+}
+.ico1 i{
+	color:orange;
+}
+.ico2 i{
+	color:blue;
+}
+.ico3 i{
+	color:#2196f3;
+}
+.ico4 i{
+	color:orange;
+}
+.ico5 i{
+	color:#c89b48 ;
+}
+.ico6 i{
+	color:#e91e63;
+}
